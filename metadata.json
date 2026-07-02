@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseSplit",
+  "description": "Hostel/PG Shared Expense Manager. Manage groups, roommate splits, balances, and track payment settlement history easily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
